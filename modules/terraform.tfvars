@@ -1,0 +1,9 @@
+vpc_cidr_m = "10.0.0.0/16"
+public_subnets_m = ["10.0.1.0/24","10.0.2.0/24"]
+private_subnets_m = ["10.0.11.0/24","10.0.12.0/24"]
+azs_m = ["ap-south-1a","ap-south-1b"]
+web_ami_id_m = "ami-0c25f859a8b518798"
+app_ami_id_m = "ami-0c25f859a8b518798"
+db_username_m = "admin"
+db_password_m = "root123456"
+db_name_m = "production"
